@@ -15,3 +15,7 @@ echo "$file not exists."
 touch $file
 echo "File has been created."
 fi 
+
+
+# test iücin
+#test2
